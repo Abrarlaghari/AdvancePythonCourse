@@ -1,4 +1,4 @@
-from class_a import Point
+from classes.class_a import Point
 
 
 class Point3(Point):

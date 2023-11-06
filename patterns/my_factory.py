@@ -22,3 +22,4 @@ class Bat(Animal):
 class CreatureFactory():
     def make_sound(self, obj):
         return eval(obj)().make_a_noise()
+    # added the factory code
