@@ -10,7 +10,7 @@ class BuyStock(Order):
 
     @stock.setter
     def stock(self, new_stock):
-        if type(new_stock) == StockTrade
+        if type(new_stock) == StockTrade:
             self.__stock = new_stock
 
     def execute(self):
