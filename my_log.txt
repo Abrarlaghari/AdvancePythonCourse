@@ -1,1 +1,2 @@
 this output will be sent to the log text file
+redirected content
